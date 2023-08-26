@@ -1,0 +1,80 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "自用",
+      "sourceUrl": "https://download.kstore.space/download/4917/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.txt"
+    },
+    {
+      "sourceName": "精品",
+      "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/127569/%E7%B2%BE%E5%93%81%E6%8E%A5%E5%8F%A3%E4%BB%93.json?sign=kYPn9C0wPUl_tvaHDTeA1bqsot2voOWh7eP_G2cczB8%3D%3A0"
+    },
+    {
+      "sourceName": "小可乐",
+      "sourceUrl": "https://download.kstore.space/download/4927/Axkl/kele.json"
+    },
+    {
+      "sourceName": "小胡",
+      "sourceUrl": "http://smr.xzam.cn:66/1"
+    },
+    {
+      "sourceName": "心动",
+      "sourceUrl": "http://rihou.vip:666/心动.json"
+    },
+    {
+      "sourceName": "日后",
+      "sourceUrl": "http://rihou.cc:55"
+    },
+    {
+      "sourceName": "整挺好",
+      "sourceUrl": "https://pan.shangui.cc/f/Vq3XU8/%E5%AE%B6%E5%BA%AD%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3_1.txt"
+    },
+    {
+      "sourceName": "心魔",
+      "sourceUrl": "https://jihulab.com/yw88075/tvbox1/-/raw/main/ywdc.json"
+    },
+    {
+      "sourceName": "多多",
+      "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/duo.json"
+    },
+    {
+      "sourceName": "运输车",
+      "sourceUrl": "https://weixine.net/api.json"
+    },
+    {
+      "sourceName": "爱TV",
+      "sourceUrl": "http://tt.itvba.cn/duocang.txt"
+    },
+    {
+      "sourceName": "欧歌",
+      "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
+    },
+    {
+      "sourceName": "业余",
+      "sourceUrl": "https://pan.shangui.cc/f/XAyUd/zx.json"
+    },
+    {
+      "sourceName": "猫技",
+      "sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
+    },
+    {
+      "sourceName": "月光宝盒",
+      "sourceUrl": "https://jihulab.com/ygbh1/box/-/raw/main/dcang/a.json"
+    },
+    {
+      "sourceName": "奇奇",
+      "sourceUrl": "https://cn.kstore.space/download/2904/123.txt"
+    },
+    {
+      "sourceName": "券票",
+      "sourceUrl": "http://tv.apehn.com/xla.json"
+    },
+    {
+      "sourceName": "公子",
+      "sourceUrl": "http://gzc.hk3.xyyun.publicvm.com/cangku.json"
+    },
+    {
+      "sourceName": "18+",
+      "sourceUrl": "https://download.kstore.space/download/4917/18%EF%B9%A2.txt"
+    }
+  ]
+}
