@@ -2,14 +2,14 @@
   "storeHouse": [
     {
       "sourceName": "自用",
-      "sourceUrl": "https://download.kstore.space/download/4917/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93.txt"
+      "sourceUrl": "https://ghproxy.net/https://github.com/ouhuang007/007/blob/10cf65cab37ca07438932cec49ba11631e2a8859/自用接口.txt"
     },
     {
       "sourceName": "精品",
       "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/127569/%E7%B2%BE%E5%93%81%E6%8E%A5%E5%8F%A3%E4%BB%93.json?sign=kYPn9C0wPUl_tvaHDTeA1bqsot2voOWh7eP_G2cczB8%3D%3A0"
     },
     {
-      "sourceName": "小可乐",
+      "sourceName": "可乐",
       "sourceUrl": "https://download.kstore.space/download/4927/Axkl/kele.json"
     },
     {
