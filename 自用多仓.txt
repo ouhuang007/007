@@ -78,7 +78,7 @@
     },
     {
       "sourceName": "18+",
-      "sourceUrl": "https://gitee.com/zhw0629/tv/raw/master/18+"
+      "sourceUrl": "https://ghproxy.net/https://github.com/ouhuang007/007/blob/main/18+.txt"
     }
   ]
 }
