@@ -83,6 +83,34 @@
       "ext": "vip.lyyytv.cn"
     },
     {
+      "key": "率率",
+      "name": "率率┃饭总",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "剧情片",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺"
+      ]
+    },
+    {
       "key": "奇奇",
       "name": "奇奇┃饭总",
       "type": 3,
@@ -407,7 +435,7 @@
     },
     {
       "key": "348",
-      "name": "348┃可乐",
+      "name": "348┃小米",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://shuyuan.miaogongzi.net/shuyuan/1694553637.txt;md5;fa797d3f25f35eb3fea9a369bc55620f",
