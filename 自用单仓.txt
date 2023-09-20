@@ -1,5 +1,6 @@
 {"urls": [  
-{"url": "https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt","name": "欧皇自用"},
+{"url": "https://download.kstore.space/download/4917/%E8%87%AA%E7%94%A8%E6%8E%A5%E5%8F%A3.txt","name": "凯速主用"},
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt","name": "Github备用"},
 {"url": "http://xn--sss604efuw.top/tv","name": "饭太硬"},
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
 {"url": "http://rihou.vip:88/荷城茶秀","name": "荷城茶秀"},
