@@ -1,8 +1,12 @@
 {
   "storeHouse": [
     {
-      "sourceName": "自用",
-      "sourceUrl":"https://ghproxy.net/https://github.com/ouhuang007/007/blob/main/自用单仓"
+      "sourceName": "凯速主用",
+      "sourceUrl":"https://download.kstore.space/download/4917/自用单仓.txt"
+    },
+    {
+      "sourceName": "Github备用",
+      "sourceUrl":"https://ghproxy.net/https://github.com/ouhuang007/007/blob/main/自用单仓.txt"
     },
     {
       "sourceName": "精品",
