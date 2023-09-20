@@ -663,7 +663,7 @@
       "name": "猫解",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
-    }，
+    },
     {
       "name": "茶桶解析",
       "type": 1,
