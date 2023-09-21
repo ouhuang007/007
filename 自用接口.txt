@@ -83,7 +83,7 @@
       "key": "Doll",
       "name": "玩偶┃俊版",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?&token=https://download.kstore.space/download/4917/lib/tk",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?&token=4e0fa9a59c674a3abb69674155a25cd9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -190,6 +190,16 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+       "key": "yqkan_open",
+       "name": "一起┃高清",
+       "type": 3,
+       "api": "csp_YQKan",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0,
+       "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },
+    {
       "key": "率率",
       "name": "率率┃饭总",
       "type": 1,
@@ -225,6 +235,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "小胡",
+      "name": "自营┃小胡",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/"
     },
     {
       "key": "csp_Nmys",
@@ -342,16 +359,6 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "csp_花猫",
-      "name": "花猫┃茶秀",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.cc:88/hccx/花猫影视.json"
     }
   ],
   "parses": [
