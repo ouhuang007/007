@@ -1,13 +1,21 @@
 # 开源仓库
 
 https://github.com/
+
 https://gitlab.com/
+
 https://gitee.com/
+
 https://coding.net/
+
 https://www.jihulab.com/
+
 https://gitcode.net/
+
 https://gitea.com/
+
 https://agit.ai/
+
 https://notabug.org/
 
 # 给英文不好的朋友
