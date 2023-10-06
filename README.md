@@ -42,5 +42,5 @@ https://gh.api.99988866.xyz/https://github.com/ouhuang007/007/blob/main/自用�
 
 # Github 静态加速
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://cdn.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
