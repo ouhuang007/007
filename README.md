@@ -26,21 +26,19 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 # Github RAW 加速服务
 
-日本
+https://fastly.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://raw.fastgit.org/ouhuang007/007/main/自用接口.txt
 
-https://raw.fastgit.org/liu673cn/box/main/m.json
+https://ghproxy.com/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
 
-韩国
+https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
 
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://gcore.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
-https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://raw.githubusercontents.com/ouhuang007/007/main/自用接口.txt 
 
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-https://raw.githubusercontents.com/liu673cn/box/main/m.json
+https://gh.api.99988866.xyz/https://github.com/ouhuang007/007/blob/main/自用接口.txt
 
 # Github 静态加速
 
