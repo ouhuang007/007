@@ -12,17 +12,6 @@
       "sourceName": "精品",
       "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/127569/%E7%B2%BE%E5%93%81%E6%8E%A5%E5%8F%A3%E4%BB%93.json?sign=kYPn9C0wPUl_tvaHDTeA1bqsot2voOWh7eP_G2cczB8%3D%3A0"
     },
-    {
-      "sourceName": "可乐",
-      "sourceUrl": "https://download.kstore.space/download/4927/Axkl/kele.json"
-    },
-    {
-      "sourceName": "小胡",
-      "sourceUrl": "http://smr.xzam.cn:66/1"
-    },
-    {
-      "sourceName": "心动",
-      "sourceUrl": "http://rihou.vip:666/心动.json"
     },
     {
       "sourceName": "日后",
@@ -71,10 +60,6 @@
     {
       "sourceName": "券票",
       "sourceUrl": "http://tv.apehn.com/xla.json"
-    },
-    {
-      "sourceName": "公子",
-      "sourceUrl": "http://gzc.hk3.xyyun.publicvm.com/cangku.json"
     },
     {
       "sourceName": "18+",
