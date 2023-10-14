@@ -12,10 +12,13 @@
       "sourceName": "精品",
       "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/127569/%E7%B2%BE%E5%93%81%E6%8E%A5%E5%8F%A3%E4%BB%93.json?sign=kYPn9C0wPUl_tvaHDTeA1bqsot2voOWh7eP_G2cczB8%3D%3A0"
     },
-    },
     {
       "sourceName": "日后",
       "sourceUrl": "http://rihou.cc:55"
+    },
+    {
+      "sourceName": "兔年",
+      "sourceUrl": "https://jihulab.com/xchbj123/zxvbndv/-/raw/main/4K.json"
     },
     {
       "sourceName": "整挺好",

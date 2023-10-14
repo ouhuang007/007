@@ -33,12 +33,16 @@
       "name": "🔞高天18"
     },
     {
-      "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/ziyong.json",
-      "name": "🔞蜂蜜18"
-    },
-    {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
       "name": "🔞二哈18"
+    },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json",
+      "name": "🔞小武哥18"
+    },
+    {
+      "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/ziyong.json",
+      "name": "🔞蜂蜜18"
     },
     {
       "url": "https://agit.ai/fenwe/TVBox/raw/branch/master/adult.json",
