@@ -21,6 +21,7 @@
 {"url": "https://agit.ai/767820774/mao666/raw/branch/master/00/000.m3u8","name": "分享者"},
 {"url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json","name": "小武哥(新)"},
 {"url": "https://qu.ax/auAH.json","name": "小武哥(旧)"},
+{"url": "http://tvbox.vip/4k","name": "猫爪"},
 {"url": "http://www.lyyytv.cn/yt/yt.json","name": "影探"},
 {"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name": "abc"},
 {"url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8","name": "D大"},
