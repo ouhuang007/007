@@ -1,6 +1,6 @@
 {"urls": [  
-{"url": "https://download.kstore.space/download/4917/自用接口.txt","name": "凯速外挂"},
-{"url": "https://download.kstore.space/download/4917/自用接口.json","name": "凯速备份"},
+{"url": "https://download.kstore.space/download/4917/自用接口.txt","name": "凯速自用"},
+{"url": "https://download.kstore.space/download/4917/高配专用.txt","name": "高配专用"},
 {"url": "http://xn--sss604efuw.top/tv","name": "饭太硬"},
 {"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
 {"url": "http://pandown.pro/tvbox/tvbox.json","name": "巧技"},
