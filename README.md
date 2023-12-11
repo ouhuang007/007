@@ -28,11 +28,11 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 https://fastly.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
-https://raw.fastgit.org/ouhuang007/007/main/自用接口.txt
-
-https://ghproxy.com/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
 
 https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
+
+https://api-ghp.fanjunyang.zone/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
 
 https://gcore.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
