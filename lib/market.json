@@ -1,0 +1,201 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            }
+        ]
+    },
+    {
+        "name": "影视正式版",
+        "list": [
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            }
+        ]
+    },
+    {
+        "name": "影视內測版",
+        "list": [
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "64位"
+            }
+        ]
+    },
+    {
+        "name": "4.x版",
+        "list": [
+            {
+                "name": "電視",
+                "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/影视.png",
+                "version": "32位"
+            }
+        ]
+    },
+    {
+        "name": "聚合直播",
+        "list": [
+            {
+                "name": "纯粹直播",
+                "url": "https://download.kstore.space/download/4917/lib/app-armeabi-v7a-release.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/茄子2.jpg",
+                "version": ""
+            },
+            {
+                "name": " 我的电视",
+                "url": "https://download.kstore.space/download/4917/lib/0101我的电视_1.2.4.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/茄子1.jpg",
+                "version": ""
+            },
+            {
+                "name": " 小薇直播",
+                "url": "https://download.kstore.space/download/4917/lib/0101小V直播v2.5纯净魔改版.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/茄子1.jpg",
+                "version": ""
+            },
+            {
+                "name": "Aseam",
+                "url": "https://download.kstore.space/download/4917/lib/aseam-armeabi-v7a-release_113.apk",
+                "icon": "https://download.kstore.space/download/4917/lib/茄子2.jpg",
+                "version": ""
+            }
+        ]
+    }
+]
