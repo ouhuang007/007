@@ -1,0 +1,83 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+38.59.245.253,3443,443,true,SJC,North America,San Jose,175,12.10
+185.148.15.22,34237,2096,true,SJC,North America,San Jose,217,12.08
+37.123.193.163,1234,443,true,SJC,North America,San Jose,170,12.01
+185.148.14.99,53106,443,true,SJC,North America,San Jose,178,11.99
+185.148.13.32,10006,443,true,SJC,North America,San Jose,178,11.98
+38.59.245.103,34237,2096,true,SJC,North America,San Jose,180,11.97
+38.59.230.134,42230,443,true,WAW,Europe,Warsaw,162,11.96
+38.59.241.40,34237,2096,true,SJC,North America,San Jose,176,11.93
+38.59.243.240,57747,443,true,SJC,North America,San Jose,204,11.93
+37.123.193.218,24493,443,true,SJC,North America,San Jose,227,11.91
+185.148.14.222,1828,443,true,SJC,North America,San Jose,230,11.88
+38.59.244.76,33963,443,true,SJC,North America,San Jose,175,11.86
+37.123.193.51,19049,443,true,SJC,North America,San Jose,177,11.84
+37.123.193.101,17473,443,true,SJC,North America,San Jose,211,11.71
+185.148.15.186,53802,443,true,SJC,North America,San Jose,202,11.66
+31.25.88.241,42060,443,true,WAW,Europe,Warsaw,161,11.65
+37.123.193.49,18008,443,true,SJC,North America,San Jose,203,11.57
+37.123.193.52,13307,443,true,SJC,North America,San Jose,212,11.56
+37.123.193.52,13307,443,true,SJC,North America,San Jose,206,11.46
+38.59.243.0,27128,443,true,SJC,North America,San Jose,189,11.44
+37.123.193.51,21875,443,true,SJC,North America,San Jose,207,11.43
+185.218.6.59,36550,443,true,SJC,North America,San Jose,177,11.40
+38.59.230.134,42180,443,true,WAW,Europe,Warsaw,166,11.29
+37.123.192.146,33684,443,true,SJC,North America,San Jose,178,11.22
+37.123.192.164,29175,443,true,SJC,North America,San Jose,200,11.18
+38.59.245.174,34237,2096,true,SJC,North America,San Jose,198,11.16
+37.123.193.163,1234,443,true,SJC,North America,San Jose,185,11.14
+185.218.6.59,36550,443,true,SJC,North America,San Jose,179,11.03
+38.59.243.0,27128,443,true,SJC,North America,San Jose,176,10.75
+38.59.230.134,42030,443,true,WAW,Europe,Warsaw,162,10.69
+185.148.15.56,58232,443,true,SJC,North America,San Jose,201,10.64
+185.148.13.142,44053,443,true,SJC,North America,San Jose,177,10.59
+37.123.193.132,35668,443,true,SJC,North America,San Jose,184,10.00
+37.123.193.218,24493,443,true,SJC,North America,San Jose,189,9.95
+38.59.230.134,42060,443,true,WAW,Europe,Warsaw,152,9.79
+37.123.193.35,5238,443,true,SJC,North America,San Jose,194,9.67
+38.59.242.249,13629,443,true,SJC,North America,San Jose,179,9.66
+37.123.192.227,2000,2053,true,SJC,North America,San Jose,209,9.56
+37.123.192.227,2000,2053,true,SJC,North America,San Jose,177,9.53
+37.123.192.227,2003,2053,true,SJC,North America,San Jose,204,9.50
+37.123.193.49,18008,443,true,SJC,North America,San Jose,202,9.48
+37.123.192.227,2003,2053,true,SJC,North America,San Jose,181,9.43
+31.25.88.241,42180,443,true,WAW,Europe,Warsaw,172,9.40
+38.94.111.211,80,80,false,LAX,North America,Los Angeles,182,9.39
+37.123.193.176,45773,443,true,SJC,North America,San Jose,180,9.11
+37.123.192.227,2000,2053,true,SJC,North America,San Jose,177,9.04
+37.123.192.227,2004,2053,true,SJC,North America,San Jose,172,9.03
+37.123.192.227,2003,2053,true,SJC,North America,San Jose,173,8.94
+37.123.193.52,13307,443,true,SJC,North America,San Jose,224,8.91
+38.59.226.184,34237,2096,true,LHR,Europe,London,225,8.88
+185.217.111.59,32672,443,true,LHR,Europe,London,248,8.85
+38.59.226.107,30905,443,true,LHR,Europe,London,267,8.79
+38.59.225.102,34237,2096,true,LHR,Europe,London,225,8.75
+38.59.242.84,34237,2096,true,SJC,North America,San Jose,180,8.63
+104.249.173.74,6666,80,false,SJC,North America,San Jose,180,8.54
+104.249.173.46,28800,80,false,SJC,North America,San Jose,176,8.35
+38.59.225.238,34237,2096,true,LHR,Europe,London,258,8.26
+185.217.111.134,34237,2096,true,LHR,Europe,London,253,8.19
+38.59.227.225,53497,443,true,LHR,Europe,London,247,8.15
+38.59.226.180,34237,2096,true,LHR,Europe,London,224,8.14
+38.59.225.180,34237,2096,true,LHR,Europe,London,259,8.09
+185.212.62.119,443,443,true,LHR,Europe,London,251,8.07
+37.123.193.163,555,443,true,DFW,North America,Dallas,224,7.92
+38.94.111.211,443,443,true,LAX,North America,Los Angeles,198,7.85
+38.59.226.113,34237,2096,true,LHR,Europe,London,225,7.73
+38.94.111.211,443,443,true,LAX,North America,Los Angeles,202,7.62
+38.59.225.235,34237,2096,true,LHR,Europe,London,252,7.30
+37.123.194.170,80,0,false,SJC,North America,San Jose,184,0.13
+37.123.194.170,80,0,false,SJC,North America,San Jose,197,0.10
+45.9.10.115,80,0,false,SJC,North America,San Jose,182,0.08
+185.148.15.103,40021,0,true,SJC,North America,San Jose,179,0.04
+38.59.242.234,26385,0,true,SJC,North America,San Jose,183,0.03
+185.148.13.187,40088,0,false,SJC,North America,San Jose,173,0.02
+185.148.13.187,40088,0,false,SJC,North America,San Jose,179,0.02
+185.148.13.187,40088,0,false,SJC,North America,San Jose,195,0.02
+38.59.254.189,9988,0,false,HKG,Asia Pacific,Hong Kong,38,0.00
+37.123.192.206,8080,0,false,SJC,North America,San Jose,192,0.00
+37.123.192.206,8080,0,false,SJC,North America,San Jose,188,0.00
+37.123.192.206,8080,0,false,SJC,North America,San Jose,186,0.00
+31.25.88.241,42080,443,true,WAW,Europe,Warsaw,170,0.00
+82.115.31.110,3000,0,false,FRA,Europe,Frankfurt,189,0.00
+38.59.249.63,45298,443,true,SJC,North America,San Jose,210,0.00
