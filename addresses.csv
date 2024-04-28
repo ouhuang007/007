@@ -1,2 +1,11 @@
-IP鍦板潃,绔彛,鍥炴簮绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,TCP寤惰繜(ms),閫熷害(MB/s)
-
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+8.219.249.38,2087,2087,TRUE,SIN,Asia Pacific,Singapore,125,14.15
+47.236.97.254,8080,8080,FALSE,SIN,Asia Pacific,Singapore,17,14.15
+8.219.250.239,8880,8880,FALSE,SIN,Asia Pacific,Singapore,11,14.14
+8.218.122.55,8880,8880,FALSE,HKG,Asia Pacific,Hong Kong,41,14.13
+8.222.147.203,8080,8080,FALSE,SIN,Asia Pacific,Singapore,6,14.13
+8.222.219.34,2082,2082,FALSE,SIN,Asia Pacific,Singapore,20,14.13
+47.236.88.85,2083,2083,TRUE,SIN,Asia Pacific,Singapore,107,14.12
+8.222.144.50,2087,2087,TRUE,SIN,Asia Pacific,Singapore,161,14.12
+8.222.214.13,2053,2053,TRUE,SIN,Asia Pacific,Singapore,102,14.12
+8.222.168.155,2087,2087,TRUE,SIN,Asia Pacific,Singapore,121,14.12
