@@ -34,8 +34,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用
 
 https://gcore.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
-https://raw.githubusercontents.com/ouhuang007/007/main/自用接口.txt 
-
 # Github 静态加速
 
 https://cdn.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
