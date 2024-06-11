@@ -32,15 +32,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ouhuang007/007/main
 
 https://ghproxy.net/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
 
-https://api-ghp.fanjunyang.zone/https://raw.githubusercontent.com/ouhuang007/007/main/自用接口.txt
-
-https://raw.fgit.cf/ouhuang007/007/main/自用接口.txt
-
 https://gcore.jsdelivr.net/gh/ouhuang007/007@main/自用接口.txt
 
 https://raw.githubusercontents.com/ouhuang007/007/main/自用接口.txt 
-
-https://gh.api.99988866.xyz/https://github.com/ouhuang007/007/blob/main/自用接口.txt
 
 # Github 静态加速
 
